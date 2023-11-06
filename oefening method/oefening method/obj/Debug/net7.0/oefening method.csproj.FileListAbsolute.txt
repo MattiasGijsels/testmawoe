@@ -1,0 +1,14 @@
+C:\Users\matti\VISUAL STUDIO NEW REPOS\oefening method\oefening method\bin\Debug\net7.0\oefening method.exe
+C:\Users\matti\VISUAL STUDIO NEW REPOS\oefening method\oefening method\bin\Debug\net7.0\oefening method.deps.json
+C:\Users\matti\VISUAL STUDIO NEW REPOS\oefening method\oefening method\bin\Debug\net7.0\oefening method.runtimeconfig.json
+C:\Users\matti\VISUAL STUDIO NEW REPOS\oefening method\oefening method\bin\Debug\net7.0\oefening method.dll
+C:\Users\matti\VISUAL STUDIO NEW REPOS\oefening method\oefening method\bin\Debug\net7.0\oefening method.pdb
+C:\Users\matti\VISUAL STUDIO NEW REPOS\oefening method\oefening method\obj\Debug\net7.0\oefening method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matti\VISUAL STUDIO NEW REPOS\oefening method\oefening method\obj\Debug\net7.0\oefening method.AssemblyInfoInputs.cache
+C:\Users\matti\VISUAL STUDIO NEW REPOS\oefening method\oefening method\obj\Debug\net7.0\oefening method.AssemblyInfo.cs
+C:\Users\matti\VISUAL STUDIO NEW REPOS\oefening method\oefening method\obj\Debug\net7.0\oefening method.csproj.CoreCompileInputs.cache
+C:\Users\matti\VISUAL STUDIO NEW REPOS\oefening method\oefening method\obj\Debug\net7.0\oefening method.dll
+C:\Users\matti\VISUAL STUDIO NEW REPOS\oefening method\oefening method\obj\Debug\net7.0\refint\oefening method.dll
+C:\Users\matti\VISUAL STUDIO NEW REPOS\oefening method\oefening method\obj\Debug\net7.0\oefening method.pdb
+C:\Users\matti\VISUAL STUDIO NEW REPOS\oefening method\oefening method\obj\Debug\net7.0\oefening method.genruntimeconfig.cache
+C:\Users\matti\VISUAL STUDIO NEW REPOS\oefening method\oefening method\obj\Debug\net7.0\ref\oefening method.dll
